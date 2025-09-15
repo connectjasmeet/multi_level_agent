@@ -1,0 +1,7 @@
+{
+  "stocks": ["AAPL", "TSLA", "GOOG"],
+  "buy_thresholds": {"AAPL": 150, "TSLA": 700, "GOOG": 2500},
+  "sell_thresholds": {"AAPL": 170, "TSLA": 800, "GOOG": 2700},
+  "check_interval_seconds": 60,
+  "strategy": "moderate"
+}
